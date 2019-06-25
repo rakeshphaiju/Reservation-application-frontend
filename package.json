@@ -1,0 +1,30 @@
+{
+  "name": "myportfoliosite",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "firebase": "^5.10.1",
+    "moment": "^2.24.0",
+    "react": "^16.2.0",
+    "react-bootstrap": "^1.0.0-beta.8",
+    "react-dom": "^16.2.0",
+    "react-mdl": "^1.11.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.0"
+  },
+  "proxy": "http://localhost:4000/",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
